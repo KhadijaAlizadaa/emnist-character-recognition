@@ -112,3 +112,7 @@ This project is for educational purposes.
 - TensorFlow/Keras framework
 - Flask web framework
 
+
+## 🎥 Demo
+
+[📹 Watch Demo Video](https://docs.google.com/videos/d/1_4ygrK1CS-Hz7swTLOWqkwozIaZZupp5Jin9Jk3GqxU/edit?usp=sharing)
